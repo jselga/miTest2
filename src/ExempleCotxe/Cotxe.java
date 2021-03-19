@@ -24,7 +24,7 @@ public class Cotxe {
     public Cotxe (String marca, int cilindrada){
         this.marca=marca;
         setCilindrada(cilindrada);
-        this.preu=-1.0;
+        this.preu=-1.56;
         cont++;
     }
     public Cotxe(String marca, int cilindrada, double preu) {
