@@ -31,7 +31,7 @@ public class PrincipalCotxe {
         Cotxe cot3 = new Cotxe("F",100);
         cot.mostra();
        
-//        cot2.setCilindrada(200);
+       cot2.setCilindrada(200);
 //        cot2.mostra(true);
 //        cot2.setMarca("Ford");
 //        cot2.setPreu(1234);
