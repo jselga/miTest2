@@ -22,7 +22,8 @@ public class PrincipalCotxe {
         System.out.println("");
         cot.mostra();
 //        System.out.println("La cilindrada del cotxe 1 és: " + cot.getCilindrada());
-//        System.out.println("Cotxe Nou:");
+        System.out.println("Cotxe Nou:");
+
         Cotxe cot2 = new Cotxe("Ford",-100);
         cot2.mostra();
         System.out.println("Salta!");
@@ -32,8 +33,8 @@ public class PrincipalCotxe {
         cot.mostra();
        
        cot2.setCilindrada(200);
-//        cot2.mostra(true);
-//        cot2.setMarca("Ford");
+     cot2.mostra(true);
+       cot2.setMarca("Ford");
 //        cot2.setPreu(1234);
 //        cot2.mostra();
 //        System.out.println("Salta!");

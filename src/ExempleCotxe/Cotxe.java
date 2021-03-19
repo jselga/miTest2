@@ -14,7 +14,7 @@ public class Cotxe {
     private String marca;
     private int cilindrada;
     private double preu;
-    public static int cont=0;
+    public static int cont=10;
 /**
  *Constructor buit, deixa crear un cotxe sense inicialitzar parametres    
  **/
